@@ -1,8 +1,9 @@
-#Projektarbeit
+# Projektarbeit
 
-##Mitglieder
+## Mitglieder
 
-Ramiro Gonzalez
-Marc Stöcklin
-Jan Wirz
+- Ramiro Gonzalez  
+- Marc Stöcklin  
+- Jan Wirz  
 
+## Dokumentation
